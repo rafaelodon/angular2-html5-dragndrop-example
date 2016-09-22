@@ -1,7 +1,7 @@
 {
-  "name": "angular-min",
+  "name": "angular2-html5-dragndrop-example",
   "version": "1.0.0",
-  "description": "Projeto Mínimo Angular2 + Typescript + Webpack",
+  "description": "A simple HTML5 drag'n'drop example using Angular2",
   "scripts": {
     "start": "webpack-dev-server --watch-poll --inline --progress --port 3000",
     "build": "del -f './dist' && webpack --config config/webpack.prod.js --progress --profile --bail",
