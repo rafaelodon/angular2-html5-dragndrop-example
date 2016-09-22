@@ -6,7 +6,7 @@
 ## Run
 `npm start`
 
-Then access it on browser at (http://localhost:3000)
+Then access it on browser at [http://localhost:3000]
 
 
 
